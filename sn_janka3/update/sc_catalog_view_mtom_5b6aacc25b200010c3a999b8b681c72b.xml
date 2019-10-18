@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_catalog_view_mtom">
+    <sc_catalog_view_mtom action="INSERT_OR_UPDATE">
+        <default>true</default>
+        <sc_catalog display_value="Colors">9c6a6cc25b200010c3a999b8b681c729</sc_catalog>
+        <sys_class_name>sc_catalog_view_mtom</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-10-18 15:43:04</sys_created_on>
+        <sys_id>5b6aacc25b200010c3a999b8b681c72b</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Colors.catalog_colors</sys_name>
+        <sys_package display_value="janka3" source="sn_janka3">e5beeba55b200010c3a999b8b681c70f</sys_package>
+        <sys_policy/>
+        <sys_portal_page display_value="catalog_colors">136aacc25b200010c3a999b8b681c72a</sys_portal_page>
+        <sys_scope display_value="janka3">e5beeba55b200010c3a999b8b681c70f</sys_scope>
+        <sys_update_name>sc_catalog_view_mtom_5b6aacc25b200010c3a999b8b681c72b</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-10-18 15:43:04</sys_updated_on>
+    </sc_catalog_view_mtom>
+</record_update>
