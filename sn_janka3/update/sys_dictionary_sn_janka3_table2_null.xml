@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?><record_update>
-    <sys_dictionary action="INSERT_OR_UPDATE" element="" table="sn_janka3_table1">
+    <sys_dictionary action="INSERT_OR_UPDATE" element="" table="sn_janka3_table2">
         <active>true</active>
         <array>false</array>
         <array_denormalized>false</array_denormalized>
@@ -35,7 +35,7 @@
         <internal_type display_value="Collection">collection</internal_type>
         <mandatory>false</mandatory>
         <max_length>40</max_length>
-        <name>sn_janka3_table1</name>
+        <name>sn_janka3_table2</name>
         <next_element/>
         <primary>false</primary>
         <read_only>false</read_only>
@@ -52,16 +52,16 @@
         <staged>false</staged>
         <sys_class_name>sys_dictionary</sys_class_name>
         <sys_created_by>admin</sys_created_by>
-        <sys_created_on>2019-10-18 15:34:57</sys_created_on>
-        <sys_id>0a8b8dc3b7200010cf70e2b9de11a9bc</sys_id>
+        <sys_created_on>2019-10-21 20:43:15</sys_created_on>
+        <sys_id>35eb0147b7200010cf70e2b9de11a91a</sys_id>
         <sys_mod_count>0</sys_mod_count>
-        <sys_name>sn_janka3_table1</sys_name>
+        <sys_name>sn_janka3_table2</sys_name>
         <sys_package display_value="janka3" source="sn_janka3">e5beeba55b200010c3a999b8b681c70f</sys_package>
         <sys_policy/>
         <sys_scope display_value="janka3">e5beeba55b200010c3a999b8b681c70f</sys_scope>
-        <sys_update_name>sys_dictionary_sn_janka3_table1_NULL</sys_update_name>
+        <sys_update_name>sys_dictionary_sn_janka3_table2_null</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2019-10-21 20:41:38</sys_updated_on>
+        <sys_updated_on>2019-10-21 20:43:15</sys_updated_on>
         <table_reference>false</table_reference>
         <text_index>false</text_index>
         <unique>false</unique>
