@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ui_application">
+    <sys_ui_application action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <hint/>
+        <name>init</name>
+        <order/>
+        <roles>sn_janka3.init_user</roles>
+        <sys_class_name>sys_ui_application</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-10-21 20:43:58</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>601cc147b7200010cf70e2b9de11a95e</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>init</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="janka3" source="sn_janka3">e5beeba55b200010c3a999b8b681c70f</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="janka3">e5beeba55b200010c3a999b8b681c70f</sys_scope>
+        <sys_update_name>sys_ui_application_601cc147b7200010cf70e2b9de11a95e</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-10-21 20:43:58</sys_updated_on>
+    </sys_ui_application>
+</record_update>
